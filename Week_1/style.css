@@ -1,0 +1,37 @@
+#me{
+
+
+
+
+
+    width:100px;
+    height:100px;
+    border-radius:10px;
+
+
+}
+
+#name{
+
+        font-family:Verdana;
+
+
+
+}
+
+#t1{
+
+
+border: 1px solid;
+
+}
+#t1, td{
+border: 1px solid;
+border-collapse:collapse;
+
+
+}
+
+body{
+    background-color:#ff0141;
+}
